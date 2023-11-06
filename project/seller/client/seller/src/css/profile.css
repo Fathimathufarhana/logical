@@ -1,0 +1,40 @@
+.pic{
+    border-radius: 62rem;
+}
+.first-div,.post,.followers,.following,.second-div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+.main-div{
+    margin-left: -43rem;
+}
+.first-div{
+    display: flex;
+    /* align-items: center; */
+    gap: 8rem;
+    justify-content: center;
+    margin-left: -21rem;
+
+    
+}
+.follow{
+    padding: 8px 24px;
+    border: none;
+    border-radius: 1rem;
+    font-weight: 400;
+}
+.bio{
+    margin-left: 20rem;
+    margin-top: 1rem;
+    width: 38rem;
+    
+}
+
+/* .image{
+    width: 100%;
+
+} */

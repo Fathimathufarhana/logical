@@ -1,0 +1,27 @@
+.cardimage{
+    width: 20pc;
+    height: 17pc;
+    
+}
+.first-image,.second-image:hover .like{
+display: block;
+}
+
+.first-image,.second-image {
+    
+        position: relative;
+        display: inline-block;
+    
+}
+.like {
+	padding-top: 7px;	
+	padding-right: 7px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	/* display: none; */
+}
+
+.like {
+	color: #000;
+}
